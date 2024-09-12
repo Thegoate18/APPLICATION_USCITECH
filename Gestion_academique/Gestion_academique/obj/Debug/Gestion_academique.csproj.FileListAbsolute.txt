@@ -1,0 +1,12 @@
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\bin\Debug\Gestion_academique.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\bin\Debug\Gestion_academique.exe
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\bin\Debug\Gestion_academique.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.Formulaire.Home.resources
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.exe
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.pdb
+c:\users\admin\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.Views.Accueil.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.Views.Inscription.resources
+C:\Users\ADMIN\documents\visual studio 2012\Projects\Gestion_academique\Gestion_academique\obj\Debug\Gestion_academique.Views.Menu.resources
